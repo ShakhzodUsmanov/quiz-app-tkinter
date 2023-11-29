@@ -1,9 +1,3 @@
-<h2>What is it?</h2>
-
-<p>It's a simple quiz application built with Python and tkinter.
-Test your Python knowledge with a variety of questions and multiple-choice answers.</p>
-
-
 <h2>How to Run:</h2>
 
 Make sure you have Python installed. </br>
