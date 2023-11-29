@@ -16,6 +16,6 @@ Run the app: python main.py.
 ![Screenshot 2023-11-30 010534](https://github.com/ShakhzodUsmanov/quiz-app-tkinter/assets/125217098/d2b67083-8d09-4907-9a8d-996d339af2c8)
 
 Why I Built This:
-Greetings fellow learners! 👋 I'm thrilled to share a Python Quiz App that I developed as part of my university project. 🐍
+Greetings fellow learners! 👋 I'm thrilled to share a Python Quiz App that I developed as part of my university project. 🐍git 
 
 Happy coding! 🚀🐍
