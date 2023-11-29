@@ -15,12 +15,7 @@ Run the app: python main.py.
 
 ![Screenshot 2023-11-30 010534](https://github.com/ShakhzodUsmanov/quiz-app-tkinter/assets/125217098/d2b67083-8d09-4907-9a8d-996d339af2c8)
 
-
-
 Why I Built This:
-I created this quiz app as a fun way to reinforce Python knowledge and practice GUI development with tkinter. It's open-source, so you can tweak it and use it for your own quizzes or learning projects.
-
-Give It a Try:
-I'd love to hear your thoughts! Give the quiz app a try and let me know how you do. Any feedback or suggestions are more than welcome.
+Greetings fellow learners! 👋 I'm thrilled to share a Python Quiz App that I developed as part of my university project. 🐍
 
 Happy coding! 🚀🐍
